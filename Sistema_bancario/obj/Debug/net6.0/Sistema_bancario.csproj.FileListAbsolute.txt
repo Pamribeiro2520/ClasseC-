@@ -1,0 +1,5 @@
+C:\Users\AlunoMicrocamp\source\repos\Sistema_bancario\obj\Debug\net6.0\Sistema_bancario.csproj.AssemblyReference.cache
+C:\Users\AlunoMicrocamp\source\repos\Sistema_bancario\obj\Debug\net6.0\Sistema_bancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlunoMicrocamp\source\repos\Sistema_bancario\obj\Debug\net6.0\Sistema_bancario.AssemblyInfoInputs.cache
+C:\Users\AlunoMicrocamp\source\repos\Sistema_bancario\obj\Debug\net6.0\Sistema_bancario.AssemblyInfo.cs
+C:\Users\AlunoMicrocamp\source\repos\Sistema_bancario\obj\Debug\net6.0\Sistema_bancario.csproj.CoreCompileInputs.cache
